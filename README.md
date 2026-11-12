@@ -19,7 +19,7 @@ Los comparamos en rendimiento (tiempo de cálculo) y en resultados (MSE, PSNR y 
 .
 ├── README.md
 ├── requirements.txt
-├── src/          código en módulos (máscaras, métricas, difusión, ejemplares)
+├── src/          código en módulos (máscaras, métricas, difusión, Bertalmio, ejemplares)
 ├── notebooks/    cuadernos de Jupyter que explican y prueban cada módulo
 └── images/       imágenes de muestra y las usadas en la experimentación
 ```
@@ -46,6 +46,8 @@ Las imágenes de prueba proceden del conjunto **OpenPhoto Restore** (J. Chin, 20
 
 Usamos sus imágenes originales, a las que aplicamos nuestras propias máscaras para poder medir el error, y sus versiones dañadas solo como ejemplos visuales.
 
+En `images/originales/` hay 100 imágenes originales, elegidas al azar del subconjunto de prueba. Cómo se han elegido y su licencia están en [`images/ORIGEN.md`](images/ORIGEN.md). De ese conjunto saldrán las que se usen en los experimentos.
+
 ## Qué es original y qué no
 
 - **Todo el código es nuestro.** No partimos de ningún repositorio existente ni hacemos *fork*: los dos algoritmos se programan desde cero.
@@ -55,7 +57,7 @@ Usamos sus imágenes originales, a las que aplicamos nuestras propias máscaras 
 
 ## Estado
 
-Seguimiento 2 en curso. De momento solo está creada la estructura del repositorio. Este apartado se irá actualizando según se añadan los módulos.
+Seguimiento 2 en curso. De momento están hechos: la estructura del repositorio, la carpeta de imágenes con 100 originales el generador de máscaras (`src/mascaras.py`, explicado y probado en `notebooks/01_mascaras.ipynb`) las métricas MSE, PSNR y cronometrado (`src/metricas.py`, en `notebooks/02_metricas.ipynb`) y la difusión simple, que rellena el hueco repitiendo la media de los cuatro vecinos (`src/difusion.py`, en `notebooks/03_difusion_simple.ipynb`, que enseña paso a paso cómo entra la información en el hueco iteración a iteración). Con esto ya funciona el recorrido completo: foto sana, máscara, restauración y métricas. Además está el método de Bertalmio et al. (`src/bertalmio.py`, en `notebooks/04_bertalmio.ipynb`): reproduce el ejemplo sintético de la Fig. 4 del artículo y continúa los bordes que cruzan el hueco (el cuaderno enseña el algoritmo paso a paso y ciclo a ciclo, con isófotas, gradiente y cambios); con líneas finas y texturas no mejora a la difusión simple, y es mucho más lento. Este apartado se irá actualizando según se añadan los módulos.
 
 ## Bibliografía
 
