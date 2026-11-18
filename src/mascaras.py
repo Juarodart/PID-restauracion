@@ -1,10 +1,6 @@
 """
 Generador de máscaras para el trabajo de inpainting.
 
-Una máscara es una matriz de True y False con el mismo alto y ancho que la
-imagen. True marca los píxeles del hueco, los que hay que rellenar, y False
-los píxeles buenos, que no se tocan nunca.
-
 Criterios comunes a todas las funciones:
   - "forma" es el tamaño de la imagen como (alto, ancho).
   - Las posiciones se dan como (fila, columna), con el origen arriba a la izquierda.
