@@ -1,0 +1,121 @@
+foto,energia_foto,caso,tipo,colocacion,pixeles_hueco,metodo,tiempo_s,iteraciones,mse_hueco,psnr_hueco,mse_imagen,psnr_imagen
+photo-1583356016310-e6db1eb14165.jpg,3.0,cuadrado_32,cuadrado,sobre un borde,1024,media,0.034,346,94.49,28.38,1.011,48.09
+photo-1583356016310-e6db1eb14165.jpg,3.0,cuadrado_32,cuadrado,sobre un borde,1024,Bertalmio,2.191,600,131.65,26.94,1.408,46.64
+photo-1583356016310-e6db1eb14165.jpg,3.0,circulo_20,circulo,sobre textura,1257,media,0.052,420,118.30,27.40,1.553,46.22
+photo-1583356016310-e6db1eb14165.jpg,3.0,circulo_20,circulo,sobre textura,1257,Bertalmio,2.708,600,67.59,29.83,0.887,48.65
+photo-1583356016310-e6db1eb14165.jpg,3.0,rayon_3,rayon,cruzando un borde,365,media,0.003,47,2.36,44.40,0.009,68.59
+photo-1583356016310-e6db1eb14165.jpg,3.0,rayon_3,rayon,cruzando un borde,365,Bertalmio,0.307,73,3.23,43.04,0.012,67.23
+photo-1469938880222-00039554fd87.jpg,11.1,cuadrado_32,cuadrado,sobre un borde,1024,media,0.033,332,325.09,23.01,7.431,39.42
+photo-1469938880222-00039554fd87.jpg,11.1,cuadrado_32,cuadrado,sobre un borde,1024,Bertalmio,2.190,600,355.41,22.62,8.124,39.03
+photo-1469938880222-00039554fd87.jpg,11.1,circulo_20,circulo,sobre textura,1257,media,0.063,507,427.90,21.82,12.006,37.34
+photo-1469938880222-00039554fd87.jpg,11.1,circulo_20,circulo,sobre textura,1257,Bertalmio,2.715,600,481.13,21.31,13.500,36.83
+photo-1469938880222-00039554fd87.jpg,11.1,rayon_3,rayon,cruzando un borde,368,media,0.006,38,40.81,32.02,0.335,52.88
+photo-1469938880222-00039554fd87.jpg,11.1,rayon_3,rayon,cruzando un borde,368,Bertalmio,5.252,600,57.31,30.55,0.471,51.40
+photo-1578403881967-084f9885be74.jpg,17.1,cuadrado_32,cuadrado,sobre un borde,1024,media,0.031,303,111.14,27.67,1.737,45.73
+photo-1578403881967-084f9885be74.jpg,17.1,cuadrado_32,cuadrado,sobre un borde,1024,Bertalmio,1.025,270,107.49,27.82,1.679,45.88
+photo-1578403881967-084f9885be74.jpg,17.1,circulo_20,circulo,sobre textura,1257,media,0.051,403,364.31,22.52,6.988,39.69
+photo-1578403881967-084f9885be74.jpg,17.1,circulo_20,circulo,sobre textura,1257,Bertalmio,2.775,600,386.91,22.25,7.421,39.43
+photo-1578403881967-084f9885be74.jpg,17.1,rayon_3,rayon,cruzando un borde,365,media,0.005,38,54.99,30.73,0.306,53.27
+photo-1578403881967-084f9885be74.jpg,17.1,rayon_3,rayon,cruzando un borde,365,Bertalmio,1.948,221,60.08,30.34,0.335,52.89
+photo-1564666069679-3e1d55404209.jpg,26.1,cuadrado_32,cuadrado,sobre un borde,1024,media,0.043,434,5374.89,10.83,57.485,30.54
+photo-1564666069679-3e1d55404209.jpg,26.1,cuadrado_32,cuadrado,sobre un borde,1024,Bertalmio,2.284,600,7090.03,9.62,75.829,29.33
+photo-1564666069679-3e1d55404209.jpg,26.1,circulo_20,circulo,sobre textura,1257,media,0.124,998,2709.53,13.80,35.573,32.62
+photo-1564666069679-3e1d55404209.jpg,26.1,circulo_20,circulo,sobre textura,1257,Bertalmio,3.075,600,2240.82,14.63,29.419,33.44
+photo-1564666069679-3e1d55404209.jpg,26.1,rayon_3,rayon,cruzando un borde,366,media,0.004,51,134.14,26.86,0.513,51.03
+photo-1564666069679-3e1d55404209.jpg,26.1,rayon_3,rayon,cruzando un borde,366,Bertalmio,2.435,600,101.64,28.06,0.389,52.24
+photo-1550724260-0358507b2eeb.jpg,35.3,cuadrado_32,cuadrado,sobre un borde,1024,media,0.039,379,1357.68,16.80,16.507,35.95
+photo-1550724260-0358507b2eeb.jpg,35.3,cuadrado_32,cuadrado,sobre un borde,1024,Bertalmio,2.276,600,1538.17,16.26,18.701,35.41
+photo-1550724260-0358507b2eeb.jpg,35.3,circulo_20,circulo,sobre textura,1257,media,0.089,700,1072.58,17.83,16.008,36.09
+photo-1550724260-0358507b2eeb.jpg,35.3,circulo_20,circulo,sobre textura,1257,Bertalmio,3.008,600,867.81,18.75,12.952,37.01
+photo-1550724260-0358507b2eeb.jpg,35.3,rayon_3,rayon,cruzando un borde,368,media,0.006,42,284.48,23.59,1.243,47.19
+photo-1550724260-0358507b2eeb.jpg,35.3,rayon_3,rayon,cruzando un borde,368,Bertalmio,5.187,600,274.67,23.74,1.200,47.34
+photo-1582816299240-2135cd671350.jpg,39.7,cuadrado_32,cuadrado,sobre un borde,1024,media,0.043,426,360.01,22.57,3.850,42.28
+photo-1582816299240-2135cd671350.jpg,39.7,cuadrado_32,cuadrado,sobre un borde,1024,Bertalmio,2.338,600,292.77,23.47,3.131,43.17
+photo-1582816299240-2135cd671350.jpg,39.7,circulo_20,circulo,sobre textura,1257,media,0.103,810,1781.55,15.62,23.389,34.44
+photo-1582816299240-2135cd671350.jpg,39.7,circulo_20,circulo,sobre textura,1257,Bertalmio,2.864,600,1974.14,15.18,25.918,33.99
+photo-1582816299240-2135cd671350.jpg,39.7,rayon_3,rayon,cruzando un borde,368,media,0.004,48,119.18,27.37,0.458,51.52
+photo-1582816299240-2135cd671350.jpg,39.7,rayon_3,rayon,cruzando un borde,368,Bertalmio,0.539,119,80.74,29.06,0.310,53.21
+photo-1548536154-c1e7ea093768.jpg,43.9,cuadrado_32,cuadrado,sobre un borde,1024,media,0.036,337,338.17,22.84,7.730,39.25
+photo-1548536154-c1e7ea093768.jpg,43.9,cuadrado_32,cuadrado,sobre un borde,1024,Bertalmio,2.243,600,335.79,22.87,7.675,39.28
+photo-1548536154-c1e7ea093768.jpg,43.9,circulo_20,circulo,sobre textura,1257,media,0.089,705,1304.39,16.98,36.599,32.50
+photo-1548536154-c1e7ea093768.jpg,43.9,circulo_20,circulo,sobre textura,1257,Bertalmio,2.841,600,1302.77,16.98,36.553,32.50
+photo-1548536154-c1e7ea093768.jpg,43.9,rayon_3,rayon,cruzando un borde,368,media,0.003,41,66.30,29.92,0.545,50.77
+photo-1548536154-c1e7ea093768.jpg,43.9,rayon_3,rayon,cruzando un borde,368,Bertalmio,0.456,106,92.54,28.47,0.760,49.32
+photo-1550000199-0d0e6f75e958.jpg,49.0,cuadrado_32,cuadrado,sobre un borde,1024,media,0.043,425,205.67,25.00,4.701,41.41
+photo-1550000199-0d0e6f75e958.jpg,49.0,cuadrado_32,cuadrado,sobre un borde,1024,Bertalmio,2.214,600,136.96,26.76,3.131,43.17
+photo-1550000199-0d0e6f75e958.jpg,49.0,circulo_20,circulo,sobre textura,1257,media,0.062,499,1012.23,18.08,28.401,33.60
+photo-1550000199-0d0e6f75e958.jpg,49.0,circulo_20,circulo,sobre textura,1257,Bertalmio,2.724,600,487.58,21.25,13.680,36.77
+photo-1550000199-0d0e6f75e958.jpg,49.0,rayon_3,rayon,cruzando un borde,366,media,0.004,44,61.01,30.28,0.498,51.15
+photo-1550000199-0d0e6f75e958.jpg,49.0,rayon_3,rayon,cruzando un borde,366,Bertalmio,3.063,600,51.81,30.99,0.423,51.87
+photo-1582459208380-f99d357adf33.jpg,56.6,cuadrado_32,cuadrado,sobre un borde,1024,media,0.038,372,2649.29,13.90,28.335,33.61
+photo-1582459208380-f99d357adf33.jpg,56.6,cuadrado_32,cuadrado,sobre un borde,1024,Bertalmio,2.217,600,2515.36,14.12,26.902,33.83
+photo-1582459208380-f99d357adf33.jpg,56.6,circulo_20,circulo,sobre textura,1257,media,0.068,552,2343.28,14.43,30.764,33.25
+photo-1582459208380-f99d357adf33.jpg,56.6,circulo_20,circulo,sobre textura,1257,Bertalmio,2.834,600,2056.70,15.00,27.002,33.82
+photo-1582459208380-f99d357adf33.jpg,56.6,rayon_3,rayon,cruzando un borde,368,media,0.003,46,389.66,22.22,1.498,46.38
+photo-1582459208380-f99d357adf33.jpg,56.6,rayon_3,rayon,cruzando un borde,368,Bertalmio,2.626,600,279.64,23.66,1.075,47.82
+photo-1558543166-d9ee53d5a353.jpg,57.9,cuadrado_32,cuadrado,sobre un borde,1024,media,0.037,364,110.51,27.70,2.526,44.11
+photo-1558543166-d9ee53d5a353.jpg,57.9,cuadrado_32,cuadrado,sobre un borde,1024,Bertalmio,2.322,600,20.17,35.08,0.461,51.49
+photo-1558543166-d9ee53d5a353.jpg,57.9,circulo_20,circulo,sobre textura,1257,media,0.094,706,3262.57,13.00,91.541,28.51
+photo-1558543166-d9ee53d5a353.jpg,57.9,circulo_20,circulo,sobre textura,1257,Bertalmio,2.901,600,2852.21,13.58,80.027,29.10
+photo-1558543166-d9ee53d5a353.jpg,57.9,rayon_3,rayon,cruzando un borde,363,media,0.005,48,100.93,28.09,0.818,49.00
+photo-1558543166-d9ee53d5a353.jpg,57.9,rayon_3,rayon,cruzando un borde,363,Bertalmio,1.214,189,72.62,29.52,0.588,50.43
+photo-1542587498-9808d287f836.jpg,63.4,cuadrado_32,cuadrado,sobre un borde,1024,media,0.037,348,1465.97,16.47,15.679,36.18
+photo-1542587498-9808d287f836.jpg,63.4,cuadrado_32,cuadrado,sobre un borde,1024,Bertalmio,2.267,600,1352.05,16.82,14.460,36.53
+photo-1542587498-9808d287f836.jpg,63.4,circulo_20,circulo,sobre textura,1257,media,0.063,503,1459.14,16.49,19.157,35.31
+photo-1542587498-9808d287f836.jpg,63.4,circulo_20,circulo,sobre textura,1257,Bertalmio,2.777,600,1632.22,16.00,21.429,34.82
+photo-1542587498-9808d287f836.jpg,63.4,rayon_3,rayon,cruzando un borde,374,media,0.005,45,141.06,26.64,0.551,50.72
+photo-1542587498-9808d287f836.jpg,63.4,rayon_3,rayon,cruzando un borde,374,Bertalmio,3.833,600,127.69,27.07,0.499,51.15
+photo-1552794839-be1638cbbd1c.jpg,73.4,cuadrado_32,cuadrado,sobre un borde,1024,media,0.045,442,1369.17,16.77,31.295,33.18
+photo-1552794839-be1638cbbd1c.jpg,73.4,cuadrado_32,cuadrado,sobre un borde,1024,Bertalmio,2.272,600,953.63,18.34,21.797,34.75
+photo-1552794839-be1638cbbd1c.jpg,73.4,circulo_20,circulo,sobre textura,1257,media,0.111,866,2793.66,13.67,78.385,29.19
+photo-1552794839-be1638cbbd1c.jpg,73.4,circulo_20,circulo,sobre textura,1257,Bertalmio,2.906,600,2256.60,14.60,63.316,30.12
+photo-1552794839-be1638cbbd1c.jpg,73.4,rayon_3,rayon,cruzando un borde,366,media,0.003,49,121.86,27.27,0.996,48.15
+photo-1552794839-be1638cbbd1c.jpg,73.4,rayon_3,rayon,cruzando un borde,366,Bertalmio,0.700,184,124.64,27.17,1.018,48.05
+photo-1553504956-476b9ffb14b2.jpg,81.7,cuadrado_32,cuadrado,sobre un borde,1024,media,0.040,393,1178.64,17.42,10.524,37.91
+photo-1553504956-476b9ffb14b2.jpg,81.7,cuadrado_32,cuadrado,sobre un borde,1024,Bertalmio,2.228,600,1304.83,16.98,11.650,37.47
+photo-1553504956-476b9ffb14b2.jpg,81.7,circulo_20,circulo,sobre textura,1257,media,0.075,600,2628.55,13.93,28.809,33.54
+photo-1553504956-476b9ffb14b2.jpg,81.7,circulo_20,circulo,sobre textura,1257,Bertalmio,2.728,600,2213.54,14.68,24.261,34.28
+photo-1553504956-476b9ffb14b2.jpg,81.7,rayon_3,rayon,cruzando un borde,378,media,0.004,47,99.11,28.17,0.327,52.99
+photo-1553504956-476b9ffb14b2.jpg,81.7,rayon_3,rayon,cruzando un borde,378,Bertalmio,3.362,600,93.12,28.44,0.307,53.26
+photo-1550653229-fefd79417c76.jpg,86.2,cuadrado_32,cuadrado,sobre un borde,1024,media,0.038,381,1377.15,16.74,31.478,33.15
+photo-1550653229-fefd79417c76.jpg,86.2,cuadrado_32,cuadrado,sobre un borde,1024,Bertalmio,2.198,600,1031.89,17.99,23.586,34.40
+photo-1550653229-fefd79417c76.jpg,86.2,circulo_20,circulo,sobre textura,1257,media,0.079,639,1635.51,15.99,45.889,31.51
+photo-1550653229-fefd79417c76.jpg,86.2,circulo_20,circulo,sobre textura,1257,Bertalmio,2.738,600,913.60,18.52,25.634,34.04
+photo-1550653229-fefd79417c76.jpg,86.2,rayon_3,rayon,cruzando un borde,368,media,0.005,45,95.66,28.32,0.786,49.18
+photo-1550653229-fefd79417c76.jpg,86.2,rayon_3,rayon,cruzando un borde,368,Bertalmio,3.819,600,51.66,31.00,0.424,51.85
+photo-1570913230986-8405973f613b.jpg,91.2,cuadrado_32,cuadrado,sobre un borde,1024,media,0.037,372,946.77,18.37,21.640,34.78
+photo-1570913230986-8405973f613b.jpg,91.2,cuadrado_32,cuadrado,sobre un borde,1024,Bertalmio,2.256,600,847.87,18.85,19.380,35.26
+photo-1570913230986-8405973f613b.jpg,91.2,circulo_20,circulo,sobre textura,1257,media,0.099,779,834.77,18.92,23.422,34.43
+photo-1570913230986-8405973f613b.jpg,91.2,circulo_20,circulo,sobre textura,1257,Bertalmio,2.795,600,913.60,18.52,25.634,34.04
+photo-1570913230986-8405973f613b.jpg,91.2,rayon_3,rayon,cruzando un borde,368,media,0.006,40,220.21,24.70,1.809,45.56
+photo-1570913230986-8405973f613b.jpg,91.2,rayon_3,rayon,cruzando un borde,368,Bertalmio,5.381,600,254.12,24.08,2.087,44.93
+photo-1613919539089-431bebcf8a70.jpg,102.9,cuadrado_32,cuadrado,sobre un borde,1024,media,0.040,398,1739.11,15.73,21.144,34.88
+photo-1613919539089-431bebcf8a70.jpg,102.9,cuadrado_32,cuadrado,sobre un borde,1024,Bertalmio,2.225,600,1720.09,15.78,20.913,34.93
+photo-1613919539089-431bebcf8a70.jpg,102.9,circulo_20,circulo,sobre textura,1257,media,0.069,558,3122.93,13.19,46.608,31.45
+photo-1613919539089-431bebcf8a70.jpg,102.9,circulo_20,circulo,sobre textura,1257,Bertalmio,2.717,600,2890.53,13.52,43.140,31.78
+photo-1613919539089-431bebcf8a70.jpg,102.9,rayon_3,rayon,cruzando un borde,366,media,0.004,46,334.24,22.89,1.452,46.51
+photo-1613919539089-431bebcf8a70.jpg,102.9,rayon_3,rayon,cruzando un borde,366,Bertalmio,2.761,600,279.27,23.67,1.214,47.29
+photo-1566689423506-9b918d4fdc8c.jpg,117.5,cuadrado_32,cuadrado,sobre un borde,1024,media,0.050,496,1578.47,16.15,36.079,32.56
+photo-1566689423506-9b918d4fdc8c.jpg,117.5,cuadrado_32,cuadrado,sobre un borde,1024,Bertalmio,2.218,600,693.52,19.72,15.852,36.13
+photo-1566689423506-9b918d4fdc8c.jpg,117.5,circulo_20,circulo,sobre textura,1257,media,0.090,730,2705.49,13.81,75.911,29.33
+photo-1566689423506-9b918d4fdc8c.jpg,117.5,circulo_20,circulo,sobre textura,1257,Bertalmio,2.777,600,2733.26,13.76,76.690,29.28
+photo-1566689423506-9b918d4fdc8c.jpg,117.5,rayon_3,rayon,cruzando un borde,341,media,0.003,48,338.16,22.84,2.574,44.02
+photo-1566689423506-9b918d4fdc8c.jpg,117.5,rayon_3,rayon,cruzando un borde,341,Bertalmio,1.006,238,174.17,25.72,1.326,46.91
+photo-1584099671756-219b1e15c3ff.jpg,134.9,cuadrado_32,cuadrado,sobre un borde,1024,media,0.032,317,1633.22,16.00,17.468,35.71
+photo-1584099671756-219b1e15c3ff.jpg,134.9,cuadrado_32,cuadrado,sobre un borde,1024,Bertalmio,2.186,600,1726.96,15.76,18.470,35.47
+photo-1584099671756-219b1e15c3ff.jpg,134.9,circulo_20,circulo,sobre textura,1257,media,0.070,566,2911.89,13.49,38.229,32.31
+photo-1584099671756-219b1e15c3ff.jpg,134.9,circulo_20,circulo,sobre textura,1257,Bertalmio,2.738,600,3714.75,12.43,48.770,31.25
+photo-1584099671756-219b1e15c3ff.jpg,134.9,rayon_3,rayon,cruzando un borde,368,media,0.004,45,529.35,20.89,2.035,45.05
+photo-1584099671756-219b1e15c3ff.jpg,134.9,rayon_3,rayon,cruzando un borde,368,Bertalmio,1.268,272,713.27,19.60,2.742,43.75
+photo-1579883543788-36d46c33f1be.jpg,158.2,cuadrado_32,cuadrado,sobre un borde,1024,media,0.034,337,5048.89,11.10,78.889,29.16
+photo-1579883543788-36d46c33f1be.jpg,158.2,cuadrado_32,cuadrado,sobre un borde,1024,Bertalmio,2.192,600,4973.85,11.16,77.716,29.23
+photo-1579883543788-36d46c33f1be.jpg,158.2,circulo_20,circulo,sobre textura,1257,media,0.052,423,7698.00,9.27,147.650,26.44
+photo-1579883543788-36d46c33f1be.jpg,158.2,circulo_20,circulo,sobre textura,1257,Bertalmio,2.720,600,7451.91,9.41,142.930,26.58
+photo-1579883543788-36d46c33f1be.jpg,158.2,rayon_3,rayon,cruzando un borde,351,media,0.003,47,281.06,23.64,1.505,46.35
+photo-1579883543788-36d46c33f1be.jpg,158.2,rayon_3,rayon,cruzando un borde,351,Bertalmio,1.877,600,219.56,24.72,1.176,47.43
+photo-1549324755-1fc0d4ecfd23.jpg,199.1,cuadrado_32,cuadrado,sobre un borde,1024,media,0.035,350,2281.15,14.55,52.141,30.96
+photo-1549324755-1fc0d4ecfd23.jpg,199.1,cuadrado_32,cuadrado,sobre un borde,1024,Bertalmio,2.187,600,2882.23,13.53,65.880,29.94
+photo-1549324755-1fc0d4ecfd23.jpg,199.1,circulo_20,circulo,sobre textura,1257,media,0.051,420,2200.41,14.71,61.739,30.23
+photo-1549324755-1fc0d4ecfd23.jpg,199.1,circulo_20,circulo,sobre textura,1257,Bertalmio,2.699,600,2272.50,14.57,63.762,30.09
+photo-1549324755-1fc0d4ecfd23.jpg,199.1,rayon_3,rayon,cruzando un borde,368,media,0.003,47,866.01,18.76,7.114,39.61
+photo-1549324755-1fc0d4ecfd23.jpg,199.1,rayon_3,rayon,cruzando un borde,368,Bertalmio,1.446,346,980.62,18.22,8.055,39.07

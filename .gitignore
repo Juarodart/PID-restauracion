@@ -6,3 +6,10 @@ __pycache__/
 
 # Registro personal de horas: no se sube
 registro_horas.md
+
+# Pruebas sueltas de los experimentos (no se suben)
+resultados/prueba_*
+
+# Imágenes restauradas de los experimentos y PDF antiguo (se pueden regenerar)
+resultados/imagenes_experimentos/
+resultados/comparacion_variada.pdf

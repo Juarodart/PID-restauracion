@@ -19,9 +19,10 @@ Los comparamos en rendimiento (tiempo de cálculo) y en resultados (MSE, PSNR y 
 .
 ├── README.md
 ├── requirements.txt
-├── src/          código en módulos (máscaras, métricas, difusión, Bertalmio, ejemplares)
+├── src/          código en módulos (máscaras, métricas, difusión, Bertalmio, ejemplares y los scripts de experimentos)
 ├── notebooks/    cuadernos de Jupyter que explican y prueban cada módulo
-└── images/       imágenes de muestra y las usadas en la experimentación
+├── images/       imágenes de muestra y las usadas en la experimentación
+└── resultados/   datos de los experimentos (archivos CSV) y comparación visual en PDF
 ```
 
 ## Cómo ejecutarlo
@@ -36,6 +37,20 @@ jupyter notebook
 ```
 
 Después se abre el cuaderno que se quiera ejecutar desde la carpeta `notebooks/`.
+
+### Repetir los experimentos
+
+Desde la carpeta del repositorio, con el entorno activado. Tardan desde unos minutos hasta unos 30, según el método; el de ejemplares es el más lento.
+
+```bash
+# la media, Bertalmio y ejemplares sobre 20 fotos y 8 máscaras (los resultados se añaden al CSV)
+python src/experimentos.py --imagenes 20 --ancho 256 --salida resultados/experimentos.csv
+
+# comparación con huecos sobre bordes, textura y rayones, con PDF de original y resultados
+python src/comparacion_variada.py --fotos 20 --metodos media Bertalmio ejemplares --csv resultados/comparacion_variada_3metodos.csv --pdf resultados/comparacion_variada_3metodos.pdf
+```
+
+Los dos scripts se pueden interrumpir y reanudar. Los tiempos dependen del ordenador: los de los resultados se midieron en un MacBook con chip Apple M4 y 16 GB de memoria.
 
 Versiones con las que se ha probado: NumPy 2.5, OpenCV 5.0 y Matplotlib 3.11.
 
@@ -57,7 +72,15 @@ En `images/originales/` hay 100 imágenes originales, elegidas al azar del subco
 
 ## Estado
 
-Seguimiento 2 en curso. De momento están hechos: la estructura del repositorio, la carpeta de imágenes con 100 originales el generador de máscaras (`src/mascaras.py`, explicado y probado en `notebooks/01_mascaras.ipynb`) las métricas MSE, PSNR y cronometrado (`src/metricas.py`, en `notebooks/02_metricas.ipynb`) y la difusión simple, que rellena el hueco repitiendo la media de los cuatro vecinos (`src/difusion.py`, en `notebooks/03_difusion_simple.ipynb`, que enseña paso a paso cómo entra la información en el hueco iteración a iteración). Con esto ya funciona el recorrido completo: foto sana, máscara, restauración y métricas. Además está el método de Bertalmio et al. (`src/bertalmio.py`, en `notebooks/04_bertalmio.ipynb`): reproduce el ejemplo sintético de la Fig. 4 del artículo y continúa los bordes que cruzan el hueco (el cuaderno enseña el algoritmo paso a paso y ciclo a ciclo, con isófotas, gradiente y cambios); con líneas finas y texturas no mejora a la difusión simple, y es mucho más lento. Este apartado se irá actualizando según se añadan los módulos.
+Fase 3 (experimentación) en curso. Está hecho y probado:
+
+- **Máscaras, métricas y tiempos** (`src/mascaras.py` y `src/metricas.py`, cuadernos 01 y 02).
+- **Los tres métodos, con la misma interfaz** (entra la imagen dañada y la máscara; salen la imagen restaurada y el número de iteraciones): la media de los cuatro vecinos (`src/difusion.py`, cuaderno 03), el método de Bertalmio et al. (`src/bertalmio.py`, cuaderno 04) y el de ejemplares de Criminisi et al. (`src/ejemplares.py`, cuaderno 05). Los cuadernos 03 y 04 enseñan paso a paso cómo avanza cada iteración.
+- **Experimentos** (`src/experimentos.py`, `src/comparacion_variada.py` y cuaderno 06): cronometraje de los tres métodos, comparación sobre 20 fotos y 8 máscaras, número de ciclos de Bertalmio, número de iteraciones de la media, y huecos colocados sobre bordes, texturas y rayones con controles. Los datos están en `resultados/`.
+
+**Lo que se ha visto hasta ahora**, con el MSE y el PSNR sobre el hueco y fotos reducidas a 256 píxeles de ancho: la media y Bertalmio tienen un error parecido y la media es mucho más rápida; Bertalmio solo mejora de forma clara en el ejemplo sintético de su artículo. Ejemplares tiene más error de media, pero en algunos casos (cuando el hueco corta algo que continúa o se repite en otra parte de la imagen) gana por mucho. Son resultados con pocas fotos y con una métrica que favorece el borrón; el detalle y sus cautelas están en la documentación.
+
+**Autoría:** el método de ejemplares y su cuaderno son de Alejandro Pineda Martín; el resto del código, de Juan Luis Rodríguez Artiaga.
 
 ## Bibliografía
 
