@@ -40,6 +40,8 @@ Después se abre el cuaderno que se quiera ejecutar desde la carpeta `notebooks/
 
 ### Repetir los experimentos
 
+El experimento principal (18 fotos clasificadas en lisas, con estructura y con textura, 8 máscaras y los tres métodos) es `python src/experimento_principal.py --por-tipo 6` y su resumen, `python src/resumen_principal.py`. El estudio de cada algoritmo (tamaño, forma y contraste, y los parámetros propios de cada método) es `python src/estudio_algoritmos.py --metodos media Bertalmio`; para ejemplares, `--metodos ejemplares`. Los datos están en `resultados/principal/` y `resultados/estudio_algoritmos/`, y el cuaderno `notebooks/08_estudio_algoritmos.ipynb` repite algunos casos y los compara con ellos.
+
 Para ver en qué casos va mejor cada método (zona lisa, borde o línea que cruza el hueco, textura que se repite), `python src/escenarios.py --reales` genera escenas sintéticas con solución conocida y además usa fotos reales; deja tablas y figuras en `resultados/escenarios/`.
 
 Para comprobar que los experimentos se pueden repetir, el cuaderno `notebooks/07_verificacion_experimentos.ipynb` (o `python src/verificar.py --imagenes 3`) los vuelve a ejecutar con las mismas imágenes y máscaras, mide tiempo y error en ese momento, guarda el registro en `resultados/verificacion/<fecha>/registro.md` y `registro.csv` y lo compara con `resultados/experimentos.csv`.
