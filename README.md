@@ -40,6 +40,8 @@ Después se abre el cuaderno que se quiera ejecutar desde la carpeta `notebooks/
 
 ### Repetir los experimentos
 
+Para comprobar que los experimentos se pueden repetir, el cuaderno `notebooks/07_verificacion_experimentos.ipynb` (o `python src/verificar.py --imagenes 3`) los vuelve a ejecutar con las mismas imágenes y máscaras, mide tiempo y error en ese momento, guarda el registro en `resultados/verificacion/<fecha>/registro.md` y `registro.csv` y lo compara con `resultados/experimentos.csv`.
+
 Desde la carpeta del repositorio, con el entorno activado. Tardan desde unos minutos hasta unos 30, según el método; el de ejemplares es el más lento.
 
 ```bash
@@ -76,7 +78,7 @@ Fase 3 (experimentación) en curso. Está hecho y probado:
 
 - **Máscaras, métricas y tiempos** (`src/mascaras.py` y `src/metricas.py`, cuadernos 01 y 02).
 - **Los tres métodos, con la misma interfaz** (entra la imagen dañada y la máscara; salen la imagen restaurada y el número de iteraciones): la media de los cuatro vecinos (`src/difusion.py`, cuaderno 03), el método de Bertalmio et al. (`src/bertalmio.py`, cuaderno 04) y el de ejemplares de Criminisi et al. (`src/ejemplares.py`, cuaderno 05). Los cuadernos 03 y 04 enseñan paso a paso cómo avanza cada iteración.
-- **Experimentos** (`src/experimentos.py`, `src/comparacion_variada.py` y cuaderno 06): cronometraje de los tres métodos, comparación sobre 20 fotos y 8 máscaras, número de ciclos de Bertalmio, número de iteraciones de la media, y huecos colocados sobre bordes, texturas y rayones con controles. Los datos están en `resultados/`.
+- **Experimentos** (`src/experimentos.py`, `src/comparacion_variada.py` y cuadernos 06 y 07): cronometraje de los tres métodos, comparación sobre 20 fotos y 8 máscaras, número de ciclos de Bertalmio, número de iteraciones de la media, y huecos colocados sobre bordes, texturas y rayones con controles. Los datos están en `resultados/`.
 
 **Lo que se ha visto hasta ahora**, con el MSE y el PSNR sobre el hueco y fotos reducidas a 256 píxeles de ancho: la media y Bertalmio tienen un error parecido y la media es mucho más rápida; Bertalmio solo mejora de forma clara en el ejemplo sintético de su artículo. Ejemplares tiene más error de media, pero en algunos casos (cuando el hueco corta algo que continúa o se repite en otra parte de la imagen) gana por mucho. Son resultados con pocas fotos y con una métrica que favorece el borrón; el detalle y sus cautelas están en la documentación.
 

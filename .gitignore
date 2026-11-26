@@ -13,3 +13,4 @@ resultados/prueba_*
 # Imágenes restauradas de los experimentos y PDF antiguo (se pueden regenerar)
 resultados/imagenes_experimentos/
 resultados/comparacion_variada.pdf
+resultados/verificacion/*/figuras/
