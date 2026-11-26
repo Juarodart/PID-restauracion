@@ -1,0 +1,289 @@
+familia,subtipo,variante,lado,metodo,tiempo_s,iteraciones,mse_hueco,psnr_hueco
+liso,degradado,0,16,media,0.0029,65,0.11,57.85
+liso,degradado,0,16,Bertalmio,0.0469,24,0.11,57.64
+liso,degradado,0,16,ejemplares,0.7554,12,0.00,72.21
+liso,degradado,0,32,media,0.0179,181,0.26,54.02
+liso,degradado,0,32,Bertalmio,0.1664,42,0.25,54.10
+liso,degradado,0,32,ejemplares,2.1424,42,0.01,69.58
+liso,degradado,0,48,media,0.0624,316,0.71,49.62
+liso,degradado,0,48,Bertalmio,0.3818,55,0.66,49.91
+liso,degradado,0,48,ejemplares,4.7499,90,0.01,68.82
+liso,degradado,1,16,media,0.0029,65,0.08,58.92
+liso,degradado,1,16,Bertalmio,0.0725,30,0.09,58.60
+liso,degradado,1,16,ejemplares,0.7338,12,0.00,72.21
+liso,degradado,1,32,media,0.0357,181,0.24,54.41
+liso,degradado,1,32,Bertalmio,0.1259,25,0.23,54.44
+liso,degradado,1,32,ejemplares,2.2315,42,0.01,68.53
+liso,degradado,1,48,media,0.0646,312,0.72,49.55
+liso,degradado,1,48,Bertalmio,0.2766,35,0.70,49.66
+liso,degradado,1,48,ejemplares,4.6363,89,0.01,70.09
+liso,degradado,2,16,media,0.0028,65,0.07,59.50
+liso,degradado,2,16,Bertalmio,0.0287,13,0.08,59.28
+liso,degradado,2,16,ejemplares,0.7282,13,0.01,69.99
+liso,degradado,2,32,media,0.0182,184,0.25,54.21
+liso,degradado,2,32,Bertalmio,0.0846,18,0.24,54.34
+liso,degradado,2,32,ejemplares,2.0986,41,0.00,73.01
+liso,degradado,2,48,media,0.0658,326,0.66,49.94
+liso,degradado,2,48,Bertalmio,0.1804,19,0.64,50.05
+liso,degradado,2,48,ejemplares,4.4957,90,0.00,71.76
+liso,degradado,3,16,media,0.0028,65,0.08,58.86
+liso,degradado,3,16,Bertalmio,0.0306,14,0.09,58.53
+liso,degradado,3,16,ejemplares,0.6563,12,0.00,73.97
+liso,degradado,3,32,media,0.0185,183,0.24,54.33
+liso,degradado,3,32,Bertalmio,0.1010,22,0.23,54.43
+liso,degradado,3,32,ejemplares,2.2344,43,0.01,67.44
+liso,degradado,3,48,media,0.0650,322,0.66,49.91
+liso,degradado,3,48,Bertalmio,0.2398,30,0.64,50.09
+liso,degradado,3,48,ejemplares,4.7042,93,0.01,68.97
+liso,cielo con grano,0,16,media,0.0033,69,10.28,38.01
+liso,cielo con grano,0,16,Bertalmio,0.3537,185,10.22,38.03
+liso,cielo con grano,0,16,ejemplares,0.5864,11,17.23,35.77
+liso,cielo con grano,0,32,media,0.0184,184,9.94,38.16
+liso,cielo con grano,0,32,Bertalmio,0.6342,171,9.88,38.19
+liso,cielo con grano,0,32,ejemplares,2.0199,40,21.44,34.82
+liso,cielo con grano,0,48,media,0.0655,321,10.39,37.97
+liso,cielo con grano,0,48,Bertalmio,1.5382,250,10.24,38.03
+liso,cielo con grano,0,48,ejemplares,4.7202,85,19.62,35.20
+liso,cielo con grano,1,16,media,0.0033,73,9.78,38.23
+liso,cielo con grano,1,16,Bertalmio,0.3070,149,9.59,38.31
+liso,cielo con grano,1,16,ejemplares,0.7013,12,19.54,35.22
+liso,cielo con grano,1,32,media,0.0210,187,9.46,38.37
+liso,cielo con grano,1,32,Bertalmio,0.4999,125,9.38,38.41
+liso,cielo con grano,1,32,ejemplares,1.9491,38,18.69,35.42
+liso,cielo con grano,1,48,media,0.0666,316,10.00,38.13
+liso,cielo con grano,1,48,Bertalmio,3.8709,600,9.83,38.21
+liso,cielo con grano,1,48,ejemplares,3.9935,81,19.29,35.28
+liso,cielo con grano,2,16,media,0.0034,80,10.61,37.87
+liso,cielo con grano,2,16,Bertalmio,0.3272,164,10.34,37.99
+liso,cielo con grano,2,16,ejemplares,0.5987,11,19.35,35.26
+liso,cielo con grano,2,32,media,0.0191,188,10.25,38.02
+liso,cielo con grano,2,32,Bertalmio,0.8321,224,10.07,38.10
+liso,cielo con grano,2,32,ejemplares,2.0574,40,19.94,35.13
+liso,cielo con grano,2,48,media,0.0654,328,9.96,38.15
+liso,cielo con grano,2,48,Bertalmio,0.8583,128,9.92,38.16
+liso,cielo con grano,2,48,ejemplares,4.7016,85,18.65,35.42
+liso,cielo con grano,3,16,media,0.0038,82,10.15,38.07
+liso,cielo con grano,3,16,Bertalmio,0.2342,109,9.76,38.24
+liso,cielo con grano,3,16,ejemplares,0.6874,12,18.72,35.41
+liso,cielo con grano,3,32,media,0.0196,180,9.96,38.15
+liso,cielo con grano,3,32,Bertalmio,0.5844,151,9.98,38.14
+liso,cielo con grano,3,32,ejemplares,1.8849,38,19.64,35.20
+liso,cielo con grano,3,48,media,0.0677,327,10.00,38.13
+liso,cielo con grano,3,48,Bertalmio,1.0673,163,9.92,38.17
+liso,cielo con grano,3,48,ejemplares,4.3349,85,19.61,35.21
+borde,montaña recta,0,16,media,0.0067,165,1008.34,18.09
+borde,montaña recta,0,16,Bertalmio,1.1923,600,725.56,19.52
+borde,montaña recta,0,16,ejemplares,0.7997,14,125.71,27.14
+borde,montaña recta,0,32,media,0.0437,427,997.94,18.14
+borde,montaña recta,0,32,Bertalmio,2.4970,600,617.37,20.23
+borde,montaña recta,0,32,ejemplares,1.9576,38,15.99,36.09
+borde,montaña recta,0,48,media,0.1581,750,989.50,18.18
+borde,montaña recta,0,48,Bertalmio,3.6842,600,591.65,20.41
+borde,montaña recta,0,48,ejemplares,4.3141,85,0.10,58.25
+borde,montaña recta,1,16,media,0.0066,164,964.19,18.29
+borde,montaña recta,1,16,Bertalmio,1.1558,600,769.88,19.27
+borde,montaña recta,1,16,ejemplares,0.7275,13,1.72,45.77
+borde,montaña recta,1,32,media,0.0430,426,908.68,18.55
+borde,montaña recta,1,32,Bertalmio,2.2027,600,499.21,21.15
+borde,montaña recta,1,32,ejemplares,1.8946,38,304.03,23.30
+borde,montaña recta,1,48,media,0.1537,758,900.76,18.58
+borde,montaña recta,1,48,Bertalmio,3.6455,600,560.86,20.64
+borde,montaña recta,1,48,ejemplares,4.6298,88,194.24,25.25
+borde,montaña recta,2,16,media,0.0058,138,1052.71,17.91
+borde,montaña recta,2,16,Bertalmio,1.3629,600,602.33,20.33
+borde,montaña recta,2,16,ejemplares,0.8179,14,60.64,30.30
+borde,montaña recta,2,32,media,0.0419,406,969.95,18.26
+borde,montaña recta,2,32,Bertalmio,2.3072,600,421.92,21.88
+borde,montaña recta,2,32,ejemplares,2.1698,42,18.24,35.52
+borde,montaña recta,2,48,media,0.1498,748,968.20,18.27
+borde,montaña recta,2,48,Bertalmio,3.6357,600,725.88,19.52
+borde,montaña recta,2,48,ejemplares,4.3042,87,13.42,36.85
+borde,montaña recta,3,16,media,0.0061,151,1138.51,17.57
+borde,montaña recta,3,16,Bertalmio,1.1526,600,1192.94,17.36
+borde,montaña recta,3,16,ejemplares,0.7975,14,184.53,25.47
+borde,montaña recta,3,32,media,0.0417,418,1075.35,17.82
+borde,montaña recta,3,32,Bertalmio,2.2095,600,678.05,19.82
+borde,montaña recta,3,32,ejemplares,2.1649,42,218.37,24.74
+borde,montaña recta,3,48,media,0.1529,756,1061.52,17.87
+borde,montaña recta,3,48,Bertalmio,3.6370,600,800.53,19.10
+borde,montaña recta,3,48,ejemplares,3.9206,81,1334.99,16.88
+borde,cresta ondulada,0,16,media,0.0077,185,972.64,18.25
+borde,cresta ondulada,0,16,Bertalmio,1.3637,600,163.99,25.98
+borde,cresta ondulada,0,16,ejemplares,0.7268,11,377.52,22.36
+borde,cresta ondulada,0,32,media,0.0574,444,1004.63,18.11
+borde,cresta ondulada,0,32,Bertalmio,2.2789,600,424.17,21.86
+borde,cresta ondulada,0,32,ejemplares,2.0413,39,508.05,21.07
+borde,cresta ondulada,0,48,media,0.1662,766,1040.56,17.96
+borde,cresta ondulada,0,48,Bertalmio,3.9281,600,616.13,20.23
+borde,cresta ondulada,0,48,ejemplares,4.2612,86,1048.24,17.93
+borde,cresta ondulada,1,16,media,0.0063,153,961.99,18.30
+borde,cresta ondulada,1,16,Bertalmio,0.9320,417,257.62,24.02
+borde,cresta ondulada,1,16,ejemplares,0.6168,11,1108.49,17.68
+borde,cresta ondulada,1,32,media,0.0417,416,866.01,18.76
+borde,cresta ondulada,1,32,Bertalmio,2.2404,600,182.46,25.52
+borde,cresta ondulada,1,32,ejemplares,2.0377,38,610.24,20.28
+borde,cresta ondulada,1,48,media,0.1570,758,890.49,18.63
+borde,cresta ondulada,1,48,Bertalmio,3.7162,600,542.23,20.79
+borde,cresta ondulada,1,48,ejemplares,4.1845,83,2033.60,15.05
+borde,cresta ondulada,2,16,media,0.0061,150,1062.61,17.87
+borde,cresta ondulada,2,16,Bertalmio,1.1751,600,919.31,18.50
+borde,cresta ondulada,2,16,ejemplares,0.8314,14,431.11,21.78
+borde,cresta ondulada,2,32,media,0.0415,406,1006.82,18.10
+borde,cresta ondulada,2,32,Bertalmio,2.2387,600,704.78,19.65
+borde,cresta ondulada,2,32,ejemplares,2.2106,42,1396.69,16.68
+borde,cresta ondulada,2,48,media,0.1503,750,986.37,18.19
+borde,cresta ondulada,2,48,Bertalmio,3.6188,600,720.94,19.55
+borde,cresta ondulada,2,48,ejemplares,3.8996,81,4806.65,11.31
+borde,cresta ondulada,3,16,media,0.0070,172,1239.95,17.20
+borde,cresta ondulada,3,16,Bertalmio,1.1922,600,1218.23,17.27
+borde,cresta ondulada,3,16,ejemplares,0.6940,12,615.95,20.24
+borde,cresta ondulada,3,32,media,0.0431,421,1100.29,17.72
+borde,cresta ondulada,3,32,Bertalmio,2.2455,600,1019.63,18.05
+borde,cresta ondulada,3,32,ejemplares,1.9040,38,322.55,23.04
+borde,cresta ondulada,3,48,media,0.1547,759,1112.48,17.67
+borde,cresta ondulada,3,48,Bertalmio,3.6559,600,940.68,18.40
+borde,cresta ondulada,3,48,ejemplares,4.3945,83,1162.13,17.48
+borde,hilo fino,0,16,media,0.0080,200,2347.91,14.42
+borde,hilo fino,0,16,Bertalmio,1.1485,600,3443.93,12.76
+borde,hilo fino,0,16,ejemplares,0.7309,13,311.74,23.19
+borde,hilo fino,0,32,media,0.0257,247,1564.19,16.19
+borde,hilo fino,0,32,Bertalmio,2.1891,600,1809.67,15.55
+borde,hilo fino,0,32,ejemplares,2.1223,41,391.23,22.21
+borde,hilo fino,0,48,media,0.0672,330,1135.10,17.58
+borde,hilo fino,0,48,Bertalmio,2.6909,451,1242.20,17.19
+borde,hilo fino,0,48,ejemplares,4.0862,84,200.44,25.11
+borde,hilo fino,1,16,media,0.0075,182,2260.12,14.59
+borde,hilo fino,1,16,Bertalmio,1.1598,600,3239.72,13.03
+borde,hilo fino,1,16,ejemplares,0.7248,13,233.69,24.44
+borde,hilo fino,1,32,media,0.0276,272,1380.46,16.73
+borde,hilo fino,1,32,Bertalmio,2.2008,600,1587.69,16.12
+borde,hilo fino,1,32,ejemplares,1.9286,38,250.19,24.15
+borde,hilo fino,1,48,media,0.0683,333,1007.07,18.10
+borde,hilo fino,1,48,Bertalmio,3.1709,527,1132.07,17.59
+borde,hilo fino,1,48,ejemplares,4.5280,83,161.07,26.06
+borde,hilo fino,2,16,media,0.0082,188,2698.56,13.82
+borde,hilo fino,2,16,Bertalmio,1.2614,600,3436.12,12.77
+borde,hilo fino,2,16,ejemplares,0.8018,14,309.21,23.23
+borde,hilo fino,2,32,media,0.0276,264,1667.01,15.91
+borde,hilo fino,2,32,Bertalmio,1.9656,530,1855.71,15.45
+borde,hilo fino,2,32,ejemplares,2.2094,41,90.11,28.58
+borde,hilo fino,2,48,media,0.0852,327,1152.20,17.52
+borde,hilo fino,2,48,Bertalmio,2.5732,414,1241.42,17.19
+borde,hilo fino,2,48,ejemplares,4.4317,88,654.61,19.97
+borde,hilo fino,3,16,media,0.0077,191,2818.64,13.63
+borde,hilo fino,3,16,Bertalmio,1.0089,514,3543.43,12.64
+borde,hilo fino,3,16,ejemplares,0.8802,15,126.04,27.13
+borde,hilo fino,3,32,media,0.0287,271,1715.57,15.79
+borde,hilo fino,3,32,Bertalmio,2.2181,600,1934.03,15.27
+borde,hilo fino,3,32,ejemplares,2.4875,44,464.34,21.46
+borde,hilo fino,3,48,media,0.0703,349,1237.98,17.20
+borde,hilo fino,3,48,Bertalmio,2.5403,424,1336.08,16.87
+borde,hilo fino,3,48,ejemplares,4.0890,84,351.96,22.67
+repetición,césped en bloques,0,16,media,0.0079,200,451.12,21.59
+repetición,césped en bloques,0,16,Bertalmio,1.1540,600,449.83,21.60
+repetición,césped en bloques,0,16,ejemplares,0.6538,12,0.00,inf
+repetición,césped en bloques,0,32,media,0.0233,234,473.95,21.37
+repetición,césped en bloques,0,32,Bertalmio,2.1848,600,462.51,21.48
+repetición,césped en bloques,0,32,ejemplares,2.0188,40,0.00,inf
+repetición,césped en bloques,0,48,media,0.0769,376,459.34,21.51
+repetición,césped en bloques,0,48,Bertalmio,3.7552,600,453.92,21.56
+repetición,césped en bloques,0,48,ejemplares,4.0045,83,0.00,inf
+repetición,césped en bloques,1,16,media,0.0043,104,542.17,20.79
+repetición,césped en bloques,1,16,Bertalmio,0.7262,377,523.60,20.94
+repetición,césped en bloques,1,16,ejemplares,0.5846,11,0.00,inf
+repetición,césped en bloques,1,32,media,0.0257,257,488.73,21.24
+repetición,césped en bloques,1,32,Bertalmio,2.2014,600,477.91,21.34
+repetición,césped en bloques,1,32,ejemplares,1.9740,39,0.00,inf
+repetición,césped en bloques,1,48,media,0.0644,316,526.85,20.91
+repetición,césped en bloques,1,48,Bertalmio,3.6091,600,507.56,21.08
+repetición,césped en bloques,1,48,ejemplares,3.8383,81,0.00,inf
+repetición,césped en bloques,2,16,media,0.0046,114,525.70,20.92
+repetición,césped en bloques,2,16,Bertalmio,0.2638,136,524.54,20.93
+repetición,césped en bloques,2,16,ejemplares,0.5801,11,0.00,inf
+repetición,césped en bloques,2,32,media,0.0331,336,520.74,20.96
+repetición,césped en bloques,2,32,Bertalmio,2.2021,600,509.43,21.06
+repetición,césped en bloques,2,32,ejemplares,2.0201,40,0.00,inf
+repetición,césped en bloques,2,48,media,0.0505,254,547.84,20.74
+repetición,césped en bloques,2,48,Bertalmio,3.5358,600,522.31,20.95
+repetición,césped en bloques,2,48,ejemplares,4.1308,85,0.00,inf
+repetición,césped en bloques,3,16,media,0.0062,155,565.26,20.61
+repetición,césped en bloques,3,16,Bertalmio,0.4903,256,544.60,20.77
+repetición,césped en bloques,3,16,ejemplares,0.5961,11,0.00,inf
+repetición,césped en bloques,3,32,media,0.0325,326,585.09,20.46
+repetición,césped en bloques,3,32,Bertalmio,2.1842,600,568.88,20.58
+repetición,césped en bloques,3,32,ejemplares,1.8760,38,0.00,inf
+repetición,césped en bloques,3,48,media,0.0732,362,540.39,20.80
+repetición,césped en bloques,3,48,Bertalmio,3.5744,600,527.92,20.91
+repetición,césped en bloques,3,48,ejemplares,4.1590,85,0.00,inf
+repetición,césped aleatorio,0,16,media,0.0048,97,53.53,30.84
+repetición,césped aleatorio,0,16,Bertalmio,0.5251,271,55.43,30.69
+repetición,césped aleatorio,0,16,ejemplares,0.5967,11,127.81,27.07
+repetición,césped aleatorio,0,32,media,0.0091,88,65.20,29.99
+repetición,césped aleatorio,0,32,Bertalmio,1.1355,309,64.43,30.04
+repetición,césped aleatorio,0,32,ejemplares,2.3369,44,120.44,27.32
+repetición,césped aleatorio,0,48,media,0.0246,122,59.25,30.40
+repetición,césped aleatorio,0,48,Bertalmio,3.7749,600,60.12,30.34
+repetición,césped aleatorio,0,48,ejemplares,4.3263,88,111.15,27.67
+repetición,césped aleatorio,1,16,media,0.0040,88,59.14,30.41
+repetición,césped aleatorio,1,16,Bertalmio,1.1555,600,61.45,30.25
+repetición,césped aleatorio,1,16,ejemplares,0.5874,11,107.79,27.81
+repetición,césped aleatorio,1,32,media,0.0090,87,54.57,30.76
+repetición,césped aleatorio,1,32,Bertalmio,1.0669,295,53.69,30.83
+repetición,césped aleatorio,1,32,ejemplares,2.0175,40,109.54,27.73
+repetición,césped aleatorio,1,48,media,0.0299,145,54.58,30.76
+repetición,césped aleatorio,1,48,Bertalmio,2.7555,465,55.34,30.70
+repetición,césped aleatorio,1,48,ejemplares,4.3178,88,112.17,27.63
+repetición,césped aleatorio,2,16,media,0.0024,57,41.02,32.00
+repetición,césped aleatorio,2,16,Bertalmio,0.4658,241,47.50,31.36
+repetición,césped aleatorio,2,16,ejemplares,0.7275,13,113.28,27.59
+repetición,césped aleatorio,2,32,media,0.0129,129,54.96,30.73
+repetición,césped aleatorio,2,32,Bertalmio,1.4287,395,55.04,30.72
+repetición,césped aleatorio,2,32,ejemplares,2.1070,41,99.71,28.14
+repetición,césped aleatorio,2,48,media,0.0311,153,56.73,30.59
+repetición,césped aleatorio,2,48,Bertalmio,3.6906,600,58.64,30.45
+repetición,césped aleatorio,2,48,ejemplares,4.5246,89,114.31,27.55
+repetición,césped aleatorio,3,16,media,0.0036,86,46.78,31.43
+repetición,césped aleatorio,3,16,Bertalmio,0.2739,144,52.23,30.95
+repetición,césped aleatorio,3,16,ejemplares,0.6547,12,96.22,28.30
+repetición,césped aleatorio,3,32,media,0.0075,73,57.05,30.57
+repetición,césped aleatorio,3,32,Bertalmio,2.1602,600,58.08,30.49
+repetición,césped aleatorio,3,32,ejemplares,2.0126,40,97.32,28.25
+repetición,césped aleatorio,3,48,media,0.0341,170,61.44,30.25
+repetición,césped aleatorio,3,48,Bertalmio,3.5233,600,62.78,30.15
+repetición,césped aleatorio,3,48,ejemplares,4.3042,86,108.10,27.79
+repetición,rayas,0,16,media,0.0044,107,1374.71,16.75
+repetición,rayas,0,16,Bertalmio,1.1774,600,1329.07,16.90
+repetición,rayas,0,16,ejemplares,0.7383,13,0.00,inf
+repetición,rayas,0,32,media,0.0287,292,1326.80,16.90
+repetición,rayas,0,32,Bertalmio,2.3407,600,1250.75,17.16
+repetición,rayas,0,32,ejemplares,2.1692,42,0.00,inf
+repetición,rayas,0,48,media,0.0983,490,1293.58,17.01
+repetición,rayas,0,48,Bertalmio,3.5878,600,1282.82,17.05
+repetición,rayas,0,48,ejemplares,3.8787,80,0.00,inf
+repetición,rayas,1,16,media,0.0042,104,1351.21,16.82
+repetición,rayas,1,16,Bertalmio,0.3005,154,1498.93,16.37
+repetición,rayas,1,16,ejemplares,0.7237,13,0.00,inf
+repetición,rayas,1,32,media,0.0227,222,1080.39,17.80
+repetición,rayas,1,32,Bertalmio,1.6099,424,1184.70,17.39
+repetición,rayas,1,32,ejemplares,2.3432,42,0.00,inf
+repetición,rayas,1,48,media,0.0633,310,1293.41,17.01
+repetición,rayas,1,48,Bertalmio,3.5580,600,1364.82,16.78
+repetición,rayas,1,48,ejemplares,3.7916,80,0.00,inf
+repetición,rayas,2,16,media,0.0044,107,1374.71,16.75
+repetición,rayas,2,16,Bertalmio,1.1458,600,1329.07,16.90
+repetición,rayas,2,16,ejemplares,0.7265,13,0.00,inf
+repetición,rayas,2,32,media,0.0294,292,1326.80,16.90
+repetición,rayas,2,32,Bertalmio,2.2025,600,1250.75,17.16
+repetición,rayas,2,32,ejemplares,2.2307,42,0.00,inf
+repetición,rayas,2,48,media,0.0985,490,1293.58,17.01
+repetición,rayas,2,48,Bertalmio,3.5738,600,1282.82,17.05
+repetición,rayas,2,48,ejemplares,3.7610,80,0.00,inf
+repetición,rayas,3,16,media,0.0043,104,1351.21,16.82
+repetición,rayas,3,16,Bertalmio,0.2974,154,1498.93,16.37
+repetición,rayas,3,16,ejemplares,0.7225,13,0.00,inf
+repetición,rayas,3,32,media,0.0224,222,1080.39,17.80
+repetición,rayas,3,32,Bertalmio,1.5355,424,1184.70,17.39
+repetición,rayas,3,32,ejemplares,2.1516,42,0.00,inf
+repetición,rayas,3,48,media,0.0621,310,1293.41,17.01
+repetición,rayas,3,48,Bertalmio,3.5529,600,1364.82,16.78
+repetición,rayas,3,48,ejemplares,3.8857,80,0.00,inf
