@@ -1,0 +1,193 @@
+estudio,metodo,valor,caso,tipo_imagen,pixeles_hueco,tiempo_s,iteraciones,mse_hueco,psnr_hueco,mse_relativo
+tamaño,ejemplares,8,photo-1583356016310-e6db1eb14165.jpg,lisa,64,0.4021,4,2.62,43.95,
+tamaño,ejemplares,16,photo-1583356016310-e6db1eb14165.jpg,lisa,256,0.7401,10,2.42,44.30,
+tamaño,ejemplares,24,photo-1583356016310-e6db1eb14165.jpg,lisa,576,1.9291,25,2.47,44.20,
+tamaño,ejemplares,32,photo-1583356016310-e6db1eb14165.jpg,lisa,1024,3.0693,41,3.86,42.27,
+tamaño,ejemplares,48,photo-1583356016310-e6db1eb14165.jpg,lisa,2304,6.0056,84,18.73,35.41,
+tamaño,ejemplares,64,photo-1583356016310-e6db1eb14165.jpg,lisa,4096,10.1243,145,87.30,28.72,
+forma,ejemplares,cuadrado,photo-1583356016310-e6db1eb14165.jpg,lisa,1024,3.1076,41,3.86,42.27,
+forma,ejemplares,círculo,photo-1583356016310-e6db1eb14165.jpg,lisa,1009,2.6970,37,2.95,43.43,
+forma,ejemplares,tira 8×128,photo-1583356016310-e6db1eb14165.jpg,lisa,1024,3.8427,48,3.11,43.20,
+forma,ejemplares,arañazo,photo-1583356016310-e6db1eb14165.jpg,lisa,1009,4.5146,55,13.03,36.98,
+forma,ejemplares,motas,photo-1583356016310-e6db1eb14165.jpg,lisa,1017,4.0972,51,20.33,35.05,
+forma,ejemplares,irregular,photo-1583356016310-e6db1eb14165.jpg,lisa,1321,3.4022,46,7.63,39.31,
+tamaño,ejemplares,8,photo-1550326456-3dccc0b6354d.jpg,lisa,64,0.1388,4,567.48,20.59,
+tamaño,ejemplares,16,photo-1550326456-3dccc0b6354d.jpg,lisa,256,0.3515,11,288.86,23.52,
+tamaño,ejemplares,24,photo-1550326456-3dccc0b6354d.jpg,lisa,576,0.6811,23,490.15,21.23,
+tamaño,ejemplares,32,photo-1550326456-3dccc0b6354d.jpg,lisa,1024,1.1436,39,4125.79,11.98,
+tamaño,ejemplares,48,photo-1550326456-3dccc0b6354d.jpg,lisa,2304,2.4058,84,1286.74,17.04,
+tamaño,ejemplares,64,photo-1550326456-3dccc0b6354d.jpg,lisa,4096,3.9752,147,2038.15,15.04,
+forma,ejemplares,cuadrado,photo-1550326456-3dccc0b6354d.jpg,lisa,1024,1.1410,39,4125.79,11.98,
+forma,ejemplares,círculo,photo-1550326456-3dccc0b6354d.jpg,lisa,1009,1.2222,36,1631.18,16.01,
+forma,ejemplares,tira 8×128,photo-1550326456-3dccc0b6354d.jpg,lisa,1024,1.4512,47,1485.22,16.41,
+forma,ejemplares,arañazo,photo-1550326456-3dccc0b6354d.jpg,lisa,730,1.1875,40,442.16,21.68,
+forma,ejemplares,motas,photo-1550326456-3dccc0b6354d.jpg,lisa,1017,1.7622,54,172.48,25.76,
+forma,ejemplares,irregular,photo-1550326456-3dccc0b6354d.jpg,lisa,1321,1.3906,49,1401.93,16.66,
+tamaño,ejemplares,8,photo-1543083362-383ecbfe3142.jpg,lisa,64,0.1849,4,2441.71,14.25,
+tamaño,ejemplares,16,photo-1543083362-383ecbfe3142.jpg,lisa,256,0.6060,13,627.70,20.15,
+tamaño,ejemplares,24,photo-1543083362-383ecbfe3142.jpg,lisa,576,0.8717,22,1100.88,17.71,
+tamaño,ejemplares,32,photo-1543083362-383ecbfe3142.jpg,lisa,1024,1.6951,42,616.91,20.23,
+tamaño,ejemplares,48,photo-1543083362-383ecbfe3142.jpg,lisa,2304,3.2271,85,497.20,21.17,
+tamaño,ejemplares,64,photo-1543083362-383ecbfe3142.jpg,lisa,4096,5.7250,155,200.23,25.12,
+forma,ejemplares,cuadrado,photo-1543083362-383ecbfe3142.jpg,lisa,1024,1.6706,42,616.91,20.23,
+forma,ejemplares,círculo,photo-1543083362-383ecbfe3142.jpg,lisa,1009,1.4031,37,522.37,20.95,
+forma,ejemplares,tira 8×128,photo-1543083362-383ecbfe3142.jpg,lisa,1024,1.9817,47,216.57,24.77,
+forma,ejemplares,arañazo,photo-1543083362-383ecbfe3142.jpg,lisa,995,2.2210,53,20.78,34.95,
+forma,ejemplares,motas,photo-1543083362-383ecbfe3142.jpg,lisa,1017,2.1682,49,66.22,29.92,
+forma,ejemplares,irregular,photo-1543083362-383ecbfe3142.jpg,lisa,1321,1.7553,47,789.72,19.16,
+tamaño,ejemplares,8,photo-1568151032356-412b3402a8c1.jpg,lisa,64,0.3544,4,0.50,51.14,
+tamaño,ejemplares,16,photo-1568151032356-412b3402a8c1.jpg,lisa,256,0.9805,12,0.93,48.45,
+tamaño,ejemplares,24,photo-1568151032356-412b3402a8c1.jpg,lisa,576,1.5478,21,0.78,49.19,
+tamaño,ejemplares,32,photo-1568151032356-412b3402a8c1.jpg,lisa,1024,2.9032,39,0.88,48.70,
+tamaño,ejemplares,48,photo-1568151032356-412b3402a8c1.jpg,lisa,2304,5.9694,83,0.98,48.23,
+tamaño,ejemplares,64,photo-1568151032356-412b3402a8c1.jpg,lisa,4096,10.1344,145,1.37,46.75,
+forma,ejemplares,cuadrado,photo-1568151032356-412b3402a8c1.jpg,lisa,1024,2.8938,39,0.88,48.70,
+forma,ejemplares,círculo,photo-1568151032356-412b3402a8c1.jpg,lisa,1009,2.6090,36,0.96,48.30,
+forma,ejemplares,tira 8×128,photo-1568151032356-412b3402a8c1.jpg,lisa,1024,4.0408,50,0.98,48.22,
+forma,ejemplares,arañazo,photo-1568151032356-412b3402a8c1.jpg,lisa,1009,4.7937,53,0.72,49.53,
+forma,ejemplares,motas,photo-1568151032356-412b3402a8c1.jpg,lisa,1017,4.4890,53,17.03,35.82,
+forma,ejemplares,irregular,photo-1568151032356-412b3402a8c1.jpg,lisa,1321,3.6082,49,0.87,48.73,
+tamaño,ejemplares,8,photo-1591567462086-5563d5e2555c.jpg,estructura,64,0.3088,4,121.24,27.29,
+tamaño,ejemplares,16,photo-1591567462086-5563d5e2555c.jpg,estructura,256,0.8602,12,299.59,23.37,
+tamaño,ejemplares,24,photo-1591567462086-5563d5e2555c.jpg,estructura,576,1.3736,21,276.00,23.72,
+tamaño,ejemplares,32,photo-1591567462086-5563d5e2555c.jpg,estructura,1024,4.9294,39,521.63,20.96,
+tamaño,ejemplares,48,photo-1591567462086-5563d5e2555c.jpg,estructura,2304,10.5969,84,441.70,21.68,
+tamaño,ejemplares,64,photo-1591567462086-5563d5e2555c.jpg,estructura,4096,17.4855,145,900.25,18.59,
+forma,ejemplares,cuadrado,photo-1591567462086-5563d5e2555c.jpg,estructura,1024,4.9296,39,521.63,20.96,
+forma,ejemplares,círculo,photo-1591567462086-5563d5e2555c.jpg,estructura,1009,5.2107,39,521.98,20.95,
+forma,ejemplares,tira 8×128,photo-1591567462086-5563d5e2555c.jpg,estructura,1024,7.3381,52,1990.09,15.14,
+forma,ejemplares,arañazo,photo-1591567462086-5563d5e2555c.jpg,estructura,1009,8.6264,52,292.47,23.47,
+forma,ejemplares,motas,photo-1591567462086-5563d5e2555c.jpg,estructura,1017,9.2215,50,189.83,25.35,
+forma,ejemplares,irregular,photo-1591567462086-5563d5e2555c.jpg,estructura,1321,8.5912,49,629.45,20.14,
+tamaño,ejemplares,8,photo-1473366311188-fb0d178ade27.jpg,estructura,64,0.3491,4,230.61,24.50,
+tamaño,ejemplares,16,photo-1473366311188-fb0d178ade27.jpg,estructura,256,1.4977,12,539.65,20.81,
+tamaño,ejemplares,24,photo-1473366311188-fb0d178ade27.jpg,estructura,576,2.0779,25,592.43,20.40,
+tamaño,ejemplares,32,photo-1473366311188-fb0d178ade27.jpg,estructura,1024,4.8184,41,696.30,19.70,
+tamaño,ejemplares,48,photo-1473366311188-fb0d178ade27.jpg,estructura,2304,7.5305,84,1719.31,15.78,
+tamaño,ejemplares,64,photo-1473366311188-fb0d178ade27.jpg,estructura,4096,10.9817,148,1347.65,16.84,
+forma,ejemplares,cuadrado,photo-1473366311188-fb0d178ade27.jpg,estructura,1024,2.7799,41,696.30,19.70,
+forma,ejemplares,círculo,photo-1473366311188-fb0d178ade27.jpg,estructura,1009,2.6029,39,859.16,18.79,
+forma,ejemplares,tira 8×128,photo-1473366311188-fb0d178ade27.jpg,estructura,1024,3.8966,50,860.63,18.78,
+forma,ejemplares,arañazo,photo-1473366311188-fb0d178ade27.jpg,estructura,875,5.6997,46,246.96,24.20,
+forma,ejemplares,motas,photo-1473366311188-fb0d178ade27.jpg,estructura,1017,3.8702,51,439.01,21.71,
+forma,ejemplares,irregular,photo-1473366311188-fb0d178ade27.jpg,estructura,1321,3.3166,49,828.88,18.95,
+tamaño,ejemplares,8,photo-1464725516711-da37f638782a.jpg,estructura,64,0.2632,4,177.73,25.63,
+tamaño,ejemplares,16,photo-1464725516711-da37f638782a.jpg,estructura,256,0.6654,11,336.91,22.86,
+tamaño,ejemplares,24,photo-1464725516711-da37f638782a.jpg,estructura,576,1.4219,24,489.71,21.23,
+tamaño,ejemplares,32,photo-1464725516711-da37f638782a.jpg,estructura,1024,2.8873,41,539.03,20.81,
+tamaño,ejemplares,48,photo-1464725516711-da37f638782a.jpg,estructura,2304,4.8872,85,2469.56,14.20,
+tamaño,ejemplares,64,photo-1464725516711-da37f638782a.jpg,estructura,4096,7.6401,148,1811.13,15.55,
+forma,ejemplares,cuadrado,photo-1464725516711-da37f638782a.jpg,estructura,1024,2.3860,41,539.03,20.81,
+forma,ejemplares,círculo,photo-1464725516711-da37f638782a.jpg,estructura,1009,3.2573,37,579.12,20.50,
+forma,ejemplares,tira 8×128,photo-1464725516711-da37f638782a.jpg,estructura,1024,4.7502,48,632.63,20.12,
+forma,ejemplares,arañazo,photo-1464725516711-da37f638782a.jpg,estructura,730,2.7231,40,277.52,23.70,
+forma,ejemplares,motas,photo-1464725516711-da37f638782a.jpg,estructura,1017,4.2654,52,1041.78,17.95,
+forma,ejemplares,irregular,photo-1464725516711-da37f638782a.jpg,estructura,1321,5.0303,49,1633.70,16.00,
+tamaño,ejemplares,8,photo-1566689423506-9b918d4fdc8c.jpg,estructura,64,0.5053,4,2581.61,14.01,
+tamaño,ejemplares,16,photo-1566689423506-9b918d4fdc8c.jpg,estructura,256,1.3758,13,4275.70,11.82,
+tamaño,ejemplares,24,photo-1566689423506-9b918d4fdc8c.jpg,estructura,576,1.6656,21,3039.95,13.30,
+tamaño,ejemplares,32,photo-1566689423506-9b918d4fdc8c.jpg,estructura,1024,2.5054,38,2979.71,13.39,
+tamaño,ejemplares,48,photo-1566689423506-9b918d4fdc8c.jpg,estructura,2304,5.2758,83,2113.48,14.88,
+tamaño,ejemplares,64,photo-1566689423506-9b918d4fdc8c.jpg,estructura,4096,10.0531,148,2634.47,13.92,
+forma,ejemplares,cuadrado,photo-1566689423506-9b918d4fdc8c.jpg,estructura,1024,3.1613,38,2979.71,13.39,
+forma,ejemplares,círculo,photo-1566689423506-9b918d4fdc8c.jpg,estructura,1009,2.6459,39,2281.13,14.55,
+forma,ejemplares,tira 8×128,photo-1566689423506-9b918d4fdc8c.jpg,estructura,1024,3.6835,50,1372.82,16.75,
+forma,ejemplares,arañazo,photo-1566689423506-9b918d4fdc8c.jpg,estructura,875,3.3207,46,421.18,21.89,
+forma,ejemplares,motas,photo-1566689423506-9b918d4fdc8c.jpg,estructura,1017,3.9213,54,351.89,22.67,
+forma,ejemplares,irregular,photo-1566689423506-9b918d4fdc8c.jpg,estructura,1321,3.0640,47,2052.11,15.01,
+tamaño,ejemplares,8,photo-1441802910857-d6c72bdc8f8b.jpg,textura,64,0.3217,4,4619.27,11.49,
+tamaño,ejemplares,16,photo-1441802910857-d6c72bdc8f8b.jpg,textura,256,0.7822,11,2801.07,13.66,
+tamaño,ejemplares,24,photo-1441802910857-d6c72bdc8f8b.jpg,textura,576,1.7028,24,3754.18,12.39,
+tamaño,ejemplares,32,photo-1441802910857-d6c72bdc8f8b.jpg,textura,1024,2.8742,40,4382.72,11.71,
+tamaño,ejemplares,48,photo-1441802910857-d6c72bdc8f8b.jpg,textura,2304,5.6998,86,4078.17,12.03,
+tamaño,ejemplares,64,photo-1441802910857-d6c72bdc8f8b.jpg,textura,4096,9.1413,148,4282.23,11.81,
+forma,ejemplares,cuadrado,photo-1441802910857-d6c72bdc8f8b.jpg,textura,1024,2.7187,40,4382.72,11.71,
+forma,ejemplares,círculo,photo-1441802910857-d6c72bdc8f8b.jpg,textura,1009,2.5464,38,4379.44,11.72,
+forma,ejemplares,tira 8×128,photo-1441802910857-d6c72bdc8f8b.jpg,textura,1024,4.7701,48,3534.84,12.65,
+forma,ejemplares,arañazo,photo-1441802910857-d6c72bdc8f8b.jpg,textura,875,3.4674,48,2047.89,15.02,
+forma,ejemplares,motas,photo-1441802910857-d6c72bdc8f8b.jpg,textura,1017,3.7831,52,2957.38,13.42,
+forma,ejemplares,irregular,photo-1441802910857-d6c72bdc8f8b.jpg,textura,1321,4.4725,49,3906.75,12.21,
+tamaño,ejemplares,8,photo-1551601499-7be122716610.jpg,textura,64,0.6655,4,2781.31,13.69,
+tamaño,ejemplares,16,photo-1551601499-7be122716610.jpg,textura,256,1.3340,10,5627.76,10.63,
+tamaño,ejemplares,24,photo-1551601499-7be122716610.jpg,textura,576,3.2727,24,4746.72,11.37,
+tamaño,ejemplares,32,photo-1551601499-7be122716610.jpg,textura,1024,5.3073,40,5105.55,11.05,
+tamaño,ejemplares,48,photo-1551601499-7be122716610.jpg,textura,2304,10.8444,85,3612.24,12.55,
+tamaño,ejemplares,64,photo-1551601499-7be122716610.jpg,textura,4096,18.4390,149,2818.54,13.63,
+forma,ejemplares,cuadrado,photo-1551601499-7be122716610.jpg,textura,1024,5.2998,40,5105.55,11.05,
+forma,ejemplares,círculo,photo-1551601499-7be122716610.jpg,textura,1009,4.7190,37,5380.45,10.82,
+forma,ejemplares,tira 8×128,photo-1551601499-7be122716610.jpg,textura,1024,6.6940,48,1335.64,16.87,
+forma,ejemplares,arañazo,photo-1551601499-7be122716610.jpg,textura,1009,7.8918,54,1001.72,18.12,
+forma,ejemplares,motas,photo-1551601499-7be122716610.jpg,textura,1017,7.5732,53,872.47,18.72,
+forma,ejemplares,irregular,photo-1551601499-7be122716610.jpg,textura,1321,8.4672,48,4506.40,11.59,
+tamaño,ejemplares,8,photo-1590365665926-9ceb63e4fb35.jpg,textura,64,0.7317,4,202.53,25.07,
+tamaño,ejemplares,16,photo-1590365665926-9ceb63e4fb35.jpg,textura,256,2.0423,12,336.06,22.87,
+tamaño,ejemplares,24,photo-1590365665926-9ceb63e4fb35.jpg,textura,576,3.8247,23,390.39,22.22,
+tamaño,ejemplares,32,photo-1590365665926-9ceb63e4fb35.jpg,textura,1024,6.3680,42,749.52,19.38,
+tamaño,ejemplares,48,photo-1590365665926-9ceb63e4fb35.jpg,textura,2304,12.1720,85,729.20,19.50,
+tamaño,ejemplares,64,photo-1590365665926-9ceb63e4fb35.jpg,textura,4096,19.7339,142,985.86,18.19,
+forma,ejemplares,cuadrado,photo-1590365665926-9ceb63e4fb35.jpg,textura,1024,6.2693,42,749.52,19.38,
+forma,ejemplares,círculo,photo-1590365665926-9ceb63e4fb35.jpg,textura,1009,5.4736,38,1383.20,16.72,
+forma,ejemplares,tira 8×128,photo-1590365665926-9ceb63e4fb35.jpg,textura,1024,7.1761,44,1021.57,18.04,
+forma,ejemplares,arañazo,photo-1590365665926-9ceb63e4fb35.jpg,textura,1009,8.4793,53,192.17,25.29,
+forma,ejemplares,motas,photo-1590365665926-9ceb63e4fb35.jpg,textura,1017,8.3373,53,2213.10,14.68,
+forma,ejemplares,irregular,photo-1590365665926-9ceb63e4fb35.jpg,textura,1321,6.5900,47,1023.81,18.03,
+tamaño,ejemplares,8,photo-1584099671756-219b1e15c3ff.jpg,textura,64,0.6850,4,1262.54,17.12,
+tamaño,ejemplares,16,photo-1584099671756-219b1e15c3ff.jpg,textura,256,1.7210,11,1388.05,16.71,
+tamaño,ejemplares,24,photo-1584099671756-219b1e15c3ff.jpg,textura,576,3.6722,24,1930.38,15.27,
+tamaño,ejemplares,32,photo-1584099671756-219b1e15c3ff.jpg,textura,1024,9.2726,42,3055.61,13.28,
+tamaño,ejemplares,48,photo-1584099671756-219b1e15c3ff.jpg,textura,2304,13.3921,87,3290.70,12.96,
+tamaño,ejemplares,64,photo-1584099671756-219b1e15c3ff.jpg,textura,4096,32.6877,150,3852.47,12.27,
+forma,ejemplares,cuadrado,photo-1584099671756-219b1e15c3ff.jpg,textura,1024,7.1146,42,3055.61,13.28,
+forma,ejemplares,círculo,photo-1584099671756-219b1e15c3ff.jpg,textura,1009,5.9418,38,3049.35,13.29,
+forma,ejemplares,tira 8×128,photo-1584099671756-219b1e15c3ff.jpg,textura,1024,7.5417,48,2689.53,13.83,
+forma,ejemplares,arañazo,photo-1584099671756-219b1e15c3ff.jpg,textura,1009,8.5813,54,1418.99,16.61,
+forma,ejemplares,motas,photo-1584099671756-219b1e15c3ff.jpg,textura,1017,8.1443,52,1286.03,17.04,
+forma,ejemplares,irregular,photo-1584099671756-219b1e15c3ff.jpg,textura,1321,6.6196,47,2527.57,14.10,
+contraste (borde),ejemplares,10,borde_0,sintética,1024,4.5083,44,0.34,52.77,0.00344
+contraste (borde),ejemplares,10,borde_1,sintética,1024,4.2952,42,0.11,57.82,0.00107
+contraste (borde),ejemplares,10,borde_2,sintética,1024,4.4247,42,0.23,54.58,0.00227
+contraste (borde),ejemplares,10,borde_3,sintética,1024,5.0019,42,0.99,48.19,0.00987
+contraste (borde),ejemplares,20,borde_0,sintética,1024,4.6823,44,1.41,46.64,0.00352
+contraste (borde),ejemplares,20,borde_1,sintética,1024,4.3689,42,0.33,52.96,0.00082
+contraste (borde),ejemplares,20,borde_2,sintética,1024,4.3288,42,0.18,55.66,0.00044
+contraste (borde),ejemplares,20,borde_3,sintética,1024,4.6622,44,2.52,44.12,0.00629
+contraste (borde),ejemplares,40,borde_0,sintética,1024,4.5714,44,5.52,40.71,0.00345
+contraste (borde),ejemplares,40,borde_1,sintética,1024,5.4140,42,1.31,46.95,0.00082
+contraste (borde),ejemplares,40,borde_2,sintética,1024,6.2534,42,0.68,49.83,0.00042
+contraste (borde),ejemplares,40,borde_3,sintética,1024,4.5327,43,15.24,36.30,0.00952
+contraste (borde),ejemplares,80,borde_0,sintética,1024,5.4299,44,22.29,34.65,0.00348
+contraste (borde),ejemplares,80,borde_1,sintética,1024,4.9917,42,4.80,41.32,0.00075
+contraste (borde),ejemplares,80,borde_2,sintética,1024,4.3541,42,2.39,44.34,0.00037
+contraste (borde),ejemplares,80,borde_3,sintética,1024,4.6389,44,40.44,32.06,0.00632
+contraste (borde),ejemplares,160,borde_0,sintética,1024,4.5807,44,88.92,28.64,0.00347
+contraste (borde),ejemplares,160,borde_1,sintética,1024,4.2692,42,19.58,35.21,0.00076
+contraste (borde),ejemplares,160,borde_2,sintética,1024,4.3363,42,10.01,38.13,0.00039
+contraste (borde),ejemplares,160,borde_3,sintética,1024,4.4694,43,242.32,24.29,0.00947
+contraste (borde),ejemplares,240,borde_0,sintética,1024,5.0275,44,199.58,25.13,0.00346
+contraste (borde),ejemplares,240,borde_1,sintética,1024,4.4359,42,44.10,31.69,0.00077
+contraste (borde),ejemplares,240,borde_2,sintética,1024,4.2699,42,22.16,34.68,0.00038
+contraste (borde),ejemplares,240,borde_3,sintética,1024,4.8309,44,363.78,22.52,0.00632
+contraste (línea fina),ejemplares,10,línea fina_0,sintética,1024,4.7269,43,0.00,72.21,0.00004
+contraste (línea fina),ejemplares,10,línea fina_1,sintética,1024,4.3606,43,0.01,66.47,0.00015
+contraste (línea fina),ejemplares,10,línea fina_2,sintética,1024,4.5211,44,0.02,65.22,0.00020
+contraste (línea fina),ejemplares,10,línea fina_3,sintética,1024,4.7735,46,0.00,71.24,0.00005
+contraste (línea fina),ejemplares,20,línea fina_0,sintética,1024,4.4925,44,0.00,inf,0.00000
+contraste (línea fina),ejemplares,20,línea fina_1,sintética,1024,4.3669,43,0.01,67.82,0.00003
+contraste (línea fina),ejemplares,20,línea fina_2,sintética,1024,4.4923,44,0.01,67.44,0.00003
+contraste (línea fina),ejemplares,20,línea fina_3,sintética,1024,4.7826,46,0.00,75.22,0.00000
+contraste (línea fina),ejemplares,40,línea fina_0,sintética,1024,4.4836,44,0.00,inf,0.00000
+contraste (línea fina),ejemplares,40,línea fina_1,sintética,1024,4.4144,43,0.00,78.23,0.00000
+contraste (línea fina),ejemplares,40,línea fina_2,sintética,1024,4.2177,42,0.00,78.23,0.00000
+contraste (línea fina),ejemplares,40,línea fina_3,sintética,1024,4.7574,46,0.00,inf,0.00000
+contraste (línea fina),ejemplares,80,línea fina_0,sintética,1024,7.0726,44,0.00,inf,0.00000
+contraste (línea fina),ejemplares,80,línea fina_1,sintética,1024,4.3525,43,0.00,71.24,0.00000
+contraste (línea fina),ejemplares,80,línea fina_2,sintética,1024,4.2468,42,0.00,71.24,0.00000
+contraste (línea fina),ejemplares,80,línea fina_3,sintética,1024,4.7829,46,0.00,inf,0.00000
+contraste (línea fina),ejemplares,160,línea fina_0,sintética,1024,4.6370,45,0.01,68.23,0.00000
+contraste (línea fina),ejemplares,160,línea fina_1,sintética,1024,4.3605,43,0.00,75.22,0.00000
+contraste (línea fina),ejemplares,160,línea fina_2,sintética,1024,4.3644,43,0.00,73.46,0.00000
+contraste (línea fina),ejemplares,160,línea fina_3,sintética,1024,4.4866,44,0.01,68.23,0.00000
+contraste (línea fina),ejemplares,240,línea fina_0,sintética,1024,4.6469,45,0.00,inf,0.00000
+contraste (línea fina),ejemplares,240,línea fina_1,sintética,1024,4.2230,42,0.00,71.24,0.00000
+contraste (línea fina),ejemplares,240,línea fina_2,sintética,1024,4.4134,43,0.01,70.45,0.00000
+contraste (línea fina),ejemplares,240,línea fina_3,sintética,1024,4.4736,44,0.00,75.22,0.00000
